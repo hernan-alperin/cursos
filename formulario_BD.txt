@@ -1,0 +1,192 @@
+POR FAVOR,
+LEA ATENTAMENTE ESTE FORMULARIO, Y RESPONDA LAS PREGUNTAS LO MÁS CLARO POSIBLE.
+CIRCULE LA O LAS OPCIONES QUE CONSIDERA CORRECTAS.
+MUCHAS GRACIAS.
+
+
+Formulario de inscripción
+Taller QGIS PostgreSQL + PostGIS
+
+
+
+Escriba su usuario del Active Directory (mail indec sin el dominio).
+
+
+
+---------------------------------------------------------------
+
+
+
+¿Tiene conocimientos sobre BD?
+
+
+
+¿Trabajó con BD?
+
+
+
+¿Dentro de su organismo se trabaja con BD?
+
+
+
+¿Conoce la herramienta PostgreSql?
+
+
+
+¿Trabajó alguna vez con PostgreSql?
+
+
+
+¿Pudo conectarse alguna vez a la BD PRODSEG del segmentador?
+
+
+
+¿Tiene instalada la VPN del indec para trabajo remoto?
+
+
+
+¿Qué espera aprender en este taller? Elabore por favor.
+
+
+
+
+
+---------------------------------------------------------------
+
+A. ¿Cómo se seleccionan todos los registros de la tabla?
+
+   	 1-SELECT FROM nombreTabla;
+
+   	 2-SELECT all FROM nombreTabla;
+
+   	 3-SELECT * FROM nombreTabla;
+
+   	 4-SELECT datos FROM nombreTabla;
+
+
+B. ¿Cuál es la sintaxis (forma) correcta para crear una base de datos llamada escuela_de_musica?
+
+  	 1-CREATE TABLE escuela de musica;
+
+   	 2-CREATE DATABASE escuela de musica;
+
+  	 3-CREATE DATA BASE escuela_de_musica;
+
+  	 4-CREATE DATABASE escuela_de_musica;
+
+
+C. ¿Cómo agregar una columna a una tabla?
+
+   	 1-ADD TABLE nombreTabla ADD (nombreColumna, tipoDeDato);
+
+   	 2-ALTER TABLE nombreTabla ADD COLUMN (nombreColumna, tipoDeDato);
+
+   	 3-ALTER TABLE ADD nombreTabla (nombreColumna, tipoDeDato);
+
+   	 4-ALTER TABLE nombreTabla ADD nombreColumna tipoDeDato;
+
+
+D. ¿ Cómo actualizar el valor de un campo o registro usando como condicón el comando "WHERE" ?
+
+   	 1-ALTER nombreTabla SET nombreColumna = valorDeseado WHERE nombreColumna = valorActual;
+
+   	 2-UPDATE nombreTabla SET nombreColumna = valorActual WHERE nombreColumna = valorDeseado;
+
+   	 3-UPDATE nombreTabla SET nombreColumna = valorDeseado WHERE nombreColumna = valorActual;
+
+   	 4-SET nombreTabla UPDATE nombreColumna = valorDeseado WHERE nombreColumna = valorActual;
+
+
+E. ¿Qué es una “PRIMARY KEY” o clave principal o primaria?
+
+   	 1-La tabla que tiene datos únicos en la base de datos.
+
+   	 2-La columna que tiene datos únicos en la tabla.
+
+   	 3-La columna que tiene datos únicos en la base de datos.
+
+   	 4-La base de datos que tiene datos únicos en la tabla.
+
+
+F. ¿Qué son las “foreign keys” o claves externas o foránea?
+
+   	 1-Las claves foráneas son campos que vinculan una tabla con la clave primaria de otra tabla
+
+   	 2-Las claves foráneas son tablas que vinculan una tabla con otra base de datos
+
+   	 3-Las claves foráneas son campos que vinculan una base de datos con otra
+
+   	 4-Ninguna de las anteriores
+
+
+G. ¿Cuál es la función principal de una clave primaria en una tabla?
+
+   	 1-Sirve para autoincrementar campos tipo INT
+
+   	 2-El papel principal es mantener la integridad interna en la tabla permitiendo que cada registro tenga un identificador unico.
+
+   	 3-Nos permite crear tablas relacionadas entre si
+
+   	 4-Se utiliza para identificar la primera columna de una tabla
+
+
+H. Una tabla puede tener mas de una clave foranea (FOREIGN KEY)
+
+   	 1-Verdadero
+
+   	 2-Falso
+
+
+I. La Normalización de tablas es el proceso de diseño de tabla?
+
+   	 1-Verdadero
+
+    	 2-Falso
+
+
+J. DML y DDL son subconjuntos de SQL.  DML significa Lenguaje de Manipulación de Datos y DDL, Data Definition Language.  DML consiste en INSERT, UPDATE and DELETE, mientras que DDL contiene CREATE TABLE, ALTER TABLE, DROP TABLE, RENAME TABLE, CREATE INDEX, ALTER INDEX, DROP INDEX, CREATE/ALTER/DROP VIEW
+
+   	 1-Verdadero
+
+   	 2-Falso
+
+
+K. El comando:
+
+  	 DELETE se utiliza para eliminar algunas o todas las filas de una tabla.
+
+ 	 TRUNCATE elimina todas las filas de una tabla.
+
+  	 DROP elimina una tabla de la base de datos. También se elimina las filas, los índices y los privilegios de todas las tablas.
+
+
+   	 1-Verdadero
+
+   	 2-Falso
+
+
+L. El operador OR despliega registros si es que cualquiera de las condiciones son verdaderas. El operador AND despliega registros si todas las condiciones son verdaderas?
+
+  	 1-Verdadero
+
+   	 2-Falso
+
+
+M. Cuáles de las siguientes sentencias es verdad acerca del truncate?
+
+ 	 1-TRUNCATE TABLE, borra la tabla de la base de datos
+
+  	 2-TRUNCATE TABLE es funcionalmente igual a DELETE TABLE
+
+  	 3-TRUNCATE TABLE debe ser usado con la cláusula WHERE
+
+	 4-N/A
+
+
+---------------------------------------------------------------
+
+Firme aquí:
+
+
+
+---------------------------------------------------------------
